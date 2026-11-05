@@ -16,3 +16,8 @@ import com.example.prak6.View.FormSiswa
 import com.example.prak6.View.TampilSiswa
 import com.example.prak6.model.DataJK.JenisK
 import com.example.prak6.viemodel.SiswaViewModel
+
+enum class Navigasi {
+    Formulir,
+    Detail
+}
